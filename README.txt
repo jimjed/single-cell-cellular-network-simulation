@@ -1,3 +1,5 @@
+READ "ENTS 656 Project report - Jim.pdf"
+
 To run the simulation using different configurations as mentioned in report, 
 change the values directly in the config.py file which is imported and save it.
     Change 1:   P_TX_W = 20
