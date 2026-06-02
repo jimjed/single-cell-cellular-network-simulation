@@ -1,0 +1,7 @@
+ProjectDescription.pdf
+ENTS 656 Project report - Jim.docx
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
